@@ -1,7 +1,7 @@
 Desafio Implantador Selfbooking Lemontech Pleno
 ======================================
 
-Esta página contém detalhes do desafio para analista de implantação de pleno.
+Esta página contém detalhes do desafio para analista de implantação pleno.
 
 ## Problema
 
