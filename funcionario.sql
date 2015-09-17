@@ -6,7 +6,7 @@ create table funcionario (
 	gender VARCHAR(50),
 	job_title VARCHAR(50),
 	full_name VARCHAR(50),
-	birth_date DATE
+	birth_date VARCHAR(50)
 );
 insert into funcionario (id, email, country, company, gender, job_title, full_name, birth_date) values (1, 'bstanley0@phpbb.com', 'Iraq', 'Skivee', 'Male', 'Editor', 'Brandon Stanley', '14/10/1989');
 insert into funcionario (id, email, country, company, gender, job_title, full_name, birth_date) values (2, 'aflores1@devhub.com', 'Mexico', 'Eazzy', 'Female', 'Accounting Assistant IV', 'Ann Flores', '02/04/1990');
