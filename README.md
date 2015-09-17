@@ -7,7 +7,7 @@ Esta página contém detalhes do desafio para analista de implantação pleno.
 
 Um cliente solicitou a extração de algumas informações na base de funcionários cadastrada no sistema.
 
-Como base de dados teremos as seguintes <b>tabela</b>:
+Como base de dados teremos as seguintes <b>tabelas</b>:
 
 ### Lista de tabelas
 
@@ -26,7 +26,7 @@ Scripts:
 
 2. Empresa que tem mais mulheres
 
-	Saida	  : empresa         ,	endereco empresa
+	Saida	  : empresa         ,	endereço empresa
 
 	Exemplo	: zezinho turismo ,	rua do zezinho
 
@@ -38,7 +38,7 @@ Scripts:
 
 4. Empresas que não possuem funcionários
 
-  Saida	  : empresa         ,	endereco empresa
+  Saida	  : empresa         ,	endereço empresa
 
   Exemplo	: zezinho turismo ,	rua do zezinho
 
