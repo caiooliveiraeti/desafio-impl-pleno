@@ -42,7 +42,7 @@ Scripts:
 
   Exemplo	: zezinho turismo ,	rua do zezinho
 
-5. Quantidade de funcionários por decada
+5. Quantidade de funcionários por década
 
   Saida	  : decada,	quantidade
 
