@@ -13,8 +13,8 @@ Como base de dados teremos as seguintes <b>tabela</b>:
 
 Scripts:
 
-* <a href="http://link" target="_blank">Empresa</a>;
-* <a href="http://link" target="_blank">Funcionários</a>.
+* <a href="https://github.com/caiooliveiraeti/desafio-impl-pleno/blob/master/empresa.sql" target="_blank">Empresa</a>;
+* <a href="https://github.com/caiooliveiraeti/desafio-impl-pleno/blob/master/funcionario.sql" target="_blank">Funcionários</a>.
 
 ### Extrações
 
