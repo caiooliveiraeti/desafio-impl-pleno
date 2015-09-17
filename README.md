@@ -50,7 +50,7 @@ Scripts:
 
 ## Envio da solução
 
-O compartilhamento do resultado produzido deve ser enviado para o email <a href="mailto:hr@lemontech.com.br" target="_blank">hr@lemontech.com.br</a> e deve conter o seguinte titulo: "Desafio Implantador Selfbooking Lemontech Pleno - ${Nome Completo do Candidato}".
+O compartilhamento do resultado produzido deve ser enviado para o email <a href="mailto:rh@lemontech.com.br" target="_blank">rh@lemontech.com.br</a> e deve conter o seguinte titulo: "Desafio Implantador Selfbooking Lemontech Pleno - ${Nome Completo do Candidato}".
 
 O email deve conter como anexo um arquivo <b>sql</b> para cada extração.
 
