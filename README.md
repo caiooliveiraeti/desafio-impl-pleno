@@ -5,7 +5,7 @@ Esta página contém detalhes do desafio para analista de implantação de pleno
 
 ## Problema
 
-Um cliente solicitou a extração de algumas informacoes na base de funcionários cadastrada no sistema.
+Um cliente solicitou a extração de algumas informações na base de funcionários cadastrada no sistema.
 
 Como base de dados teremos as seguintes <b>tabela</b>:
 
@@ -50,9 +50,9 @@ Scripts:
 
 ## Envio da solução
 
-O compartilhamento do resultado produzido deve ser feito enviando um email para <a href="mailto:hr@lemontech.com.br" target="_blank">hr@lemontech.com.br</a> e deve conter o seguinte titulo: "Desafio Implantador Selfbooking Lemontech Pleno - ${Nome Completo do Candidato}".
+O compartilhamento do resultado produzido deve ser enviado para o email <a href="mailto:hr@lemontech.com.br" target="_blank">hr@lemontech.com.br</a> e deve conter o seguinte titulo: "Desafio Implantador Selfbooking Lemontech Pleno - ${Nome Completo do Candidato}".
 
-Deve ser enviado o comando SQL de cada extração.
+O email deve conter como anexo um arquivo <b>sql</b> para cada extração.
 
 Bom desafio!
 
